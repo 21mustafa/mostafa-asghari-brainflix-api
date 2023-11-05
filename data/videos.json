@@ -299,31 +299,5 @@
         "timestamp": 1632496261000
       }
     ]
-  },
-  {
-    "id": "b324af24-2c6c-4814-90a8-a067d35b57af",
-    "title": "Mustafanin minik parmagi",
-    "image": "http://localhost:8000/images/image8.jpeg",
-    "channel": "",
-    "description": "mustafanin minig ayak parmaginin uzerinden sandalye gecti :((",
-    "views": "0",
-    "likes": "0",
-    "duration": "3:21",
-    "video": null,
-    "timestamp": 1626032763000,
-    "comments": []
-  },
-  {
-    "id": "a6feb94c-dee5-46e4-95f4-5506d8e45807",
-    "title": "Puck un minik surati",
-    "image": "http://localhost:8000/images/image8.jpeg",
-    "channel": "",
-    "description": "minnnik",
-    "views": "0",
-    "likes": "0",
-    "duration": "3:21",
-    "video": null,
-    "timestamp": 1626032763000,
-    "comments": []
   }
 ]
